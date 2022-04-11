@@ -4,7 +4,7 @@
 
 ## I'm junior frontend-developer and MPEI Student  
 
-- 👨‍💻 I’m currently stidying on web development technologies like JavaScript, HTML etc.
+- 👨‍💻 I’m currently studying on web development technologies like JavaScript, HTML etc.
 - 📚 I’m currently learning everything about Frontend technologies.
 - ⚡ Fun fact: I'm runner and canicross athlete 🐕--🏃‍♀️.
 
