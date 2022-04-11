@@ -1,5 +1,5 @@
 # Hi there, I'm Lera - Leryyy ✨💻
-### Nice to meet you on my Github 😊
+### Nice to see you on my Github 😊
 <img align="right" alt="GIF" height="160px" src="https://i.pinimg.com/originals/82/16/49/82164990390a74139172ecacd967a190.gif" />
 
 ## I'm junior frontend-developer and MPEI Student  
